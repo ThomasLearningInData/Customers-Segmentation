@@ -17,8 +17,10 @@ Correlation:
 ![image](https://github.com/user-attachments/assets/8c92abb5-824e-426c-845a-dc5bf6b4d9ce)
 ![image](https://github.com/user-attachments/assets/ddb325b1-9b10-4ec8-a380-46459969d814)
 ![image](https://github.com/user-attachments/assets/67a03bb7-e0dc-442a-961c-eda1a57442f6)
-The 4-cluster model provides clear segmentation of customer groups but tends to mix the income group between 40k to 60k with other segments.
-The 5-cluster model splits this middle-income group into a separate cluster, which could better represent the behavior of customers within this income range, especially regarding their spending habits.
+
+The 4-cluster model provides clear segmentation of customer groups but tends to mix the income group between 40k to 60k with other segments. The 5-cluster model splits this middle-income group into a separate cluster, which could better represent the behavior of customers within this income range, especially regarding their spending habits.
+
+5 clusters may be a better choice as it groups customers with annual revenue between 40k and 60k into a separate group and may better suit your needs for data segmentation. If your business goal is to further personalize marketing or services to middle-income customers, then 5 clusters can provide clearer classification results.
 
 
 Note: This data is fake. It is for learning purpose only.
