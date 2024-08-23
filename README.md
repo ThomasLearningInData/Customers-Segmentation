@@ -3,7 +3,9 @@ I'm performing a K-Means clustering analysis on customer data, focusing on segme
 
 ### Findings:
 Correlation:
-![image](https://github.com/user-attachments/assets/55a6eef6-19da-47e6-90d0-8eb7bca080b2)
+
+![image](https://github.com/user-attachments/assets/248f08d5-8b37-429d-8e93-96092e724a51)
+
 - Gender has a very low correlation with both "Annual Income (k$)" and "Spending Score (1-100)", indicating that gender has little influence on these variables in this dataset.
 
 - Age has a moderate negative correlation with "Spending Score (-0.33)", meaning that as age increases, the spending score tends to decrease. This suggests older customers may have lower spending scores.
